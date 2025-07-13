@@ -51,7 +51,7 @@ const App: React.FC = () => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
   useEffect(() => {
-    fetch('/media_by_section.json')
+    fetch(`${import.meta.env.BASE_URL}media_by_section.json`)
       .then((r) => r.json())
       .then((json) => {
         // flatten json (old structure) into RawMediaItem[]
