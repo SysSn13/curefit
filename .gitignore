@@ -13,10 +13,6 @@ venv/
 # Local environment variables
 .env
 
-# Crawler outputs (large)
-media/
-data/
-
 # IDE / editor folders
 .vscode/
 .idea/

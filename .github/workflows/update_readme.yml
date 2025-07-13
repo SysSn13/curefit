@@ -1,9 +1,7 @@
-name: Weekly MindLive Update
+name: Deprecated - use crawl_data.yml
 
 on:
-  schedule:
-    - cron: '0 3 * * 0'   # 03:00 UTC every Sunday
-  workflow_dispatch:      # manual trigger
+  workflow_dispatch:
 
 jobs:
   update:
