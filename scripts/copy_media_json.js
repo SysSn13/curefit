@@ -4,13 +4,11 @@
 // It simply copies data/media_by_section.json ➜ frontend/public/media_by_section.json.
 // If the destination folder does not exist it is created.
 
-import { promises as fs } from 'node:fs';
-import path from 'node:path';
-import url from 'node:url';
+const fs = require('fs').promises;
+const path = require('path');
 
 async function main() {
-  const root = path.dirname(url.fileURLToPath(import.meta.url));
-
+  const root = __dirname;
   // paths
   const SRC = path.resolve(root, '..', 'data', 'media_by_section.json');
   const DEST_DIR = path.resolve(root, '..', 'frontend', 'public');
