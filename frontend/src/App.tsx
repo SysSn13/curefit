@@ -76,6 +76,8 @@ const App: React.FC = () => {
   // Reset active player when navigating to a different node
   React.useEffect(() => {
     setActiveUrl('');
+    // Reset search whenever we navigate to a different node (section or pack)
+    setSearch('');
   }, [path]);
 
   // Search filter applies only at leaf where items are shown
@@ -134,7 +136,9 @@ const App: React.FC = () => {
           </button>
         )}
 
-        {Object.keys(currentNode.children).map((key) => (
+        {Object.keys(currentNode.children)
+          .filter((key) => key.toLowerCase().includes(search.toLowerCase()))
+          .map((key) => (
           <button
             key={key}
             className="block w-full text-left px-2 py-1 rounded hover:bg-teal-800 whitespace-normal break-words"
@@ -169,11 +173,23 @@ const App: React.FC = () => {
           <span className="font-semibold text-lg">{path[path.length - 1] ? path[path.length - 1].replace(/_/g, ' ') : 'Home'}</span>
         </div>
 
+        {/* Search bar for sections/packs when there are children */}
+        {Object.keys(currentNode.children).length > 0 && (
+          <input
+            type="text"
+            placeholder="Search sections…"
+            className="w-full mb-4 px-3 py-2 rounded-lg bg-white/70 backdrop-blur-sm shadow border border-teal-200/60 dark:border-teal-200/30 text-gray-900 dark:text-gray-900 placeholder-gray-600 dark:placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-teal-500"
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+          />
+        )}
+
+        {/* Search bar for sessions when at a leaf node (no children) */}
         {Object.keys(currentNode.children).length === 0 && (
           <input
             type="text"
             placeholder="Search sessions…"
-            className="w-full mb-4 p-2 border rounded"
+            className="w-full mb-4 px-3 py-2 rounded-lg bg-white/70 backdrop-blur-sm shadow border border-teal-200/60 dark:border-teal-200/30 text-gray-900 dark:text-gray-900 placeholder-gray-600 dark:placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-teal-500"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
           />
