@@ -1,0 +1,17 @@
+
+============================================================
+RECOMMENDATIONS FOR GENERIC CRAWLER:
+
+1. Successful data extraction methods:
+   - items_script_32
+   - widgets_script_32
+   - widgets_script_34
+   - items_script_34
+
+3. Recommended approach:
+   - Use a two-phase approach:
+     Phase 1: Crawl main section pages to get sub-section links
+     Phase 2: Visit each sub-section to extract media with proper titles
+   - Look for __PRELOADED_STATE__ in script tags for structured data
+   - Fall back to regex patterns for media URLs if structured data fails
+   - Use longer timeouts (45-60 seconds) to handle slow responses

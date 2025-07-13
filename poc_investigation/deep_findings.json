@@ -1,0 +1,197 @@
+{
+  "Meditation For Kids": {
+    "section": {
+      "url": "https://www.cult.fit/live/mindfulness/meditation-for-kids/MED_SERIES_13/s",
+      "name": "Meditation For Kids",
+      "type": "meditation"
+    },
+    "main_page": {
+      "status_code": 200,
+      "url": "https://www.cult.fit/live/mindfulness/meditation-for-kids/MED_SERIES_13/s",
+      "data_extraction": {
+        "methods_tried": [],
+        "data_found": {
+          "items_script_34": {
+            "success": true,
+            "keys": "array",
+            "sample": "[]"
+          },
+          "widgets_script_34": {
+            "success": true,
+            "keys": "array",
+            "sample": "[]"
+          }
+        },
+        "script_analysis": [
+          {
+            "index": 34,
+            "length": 68412,
+            "contains": [
+              "__PRELOADED_STATE__",
+              "items",
+              "widgets"
+            ]
+          }
+        ]
+      }
+    },
+    "sub_pages": [],
+    "structure_found": true
+  },
+  "Sleep Meditation": {
+    "section": {
+      "url": "https://www.cult.fit/live/mindfulness/sleep-meditation/MED_SERIES_18/s",
+      "name": "Sleep Meditation",
+      "type": "meditation"
+    },
+    "main_page": {
+      "status_code": 200,
+      "url": "https://www.cult.fit/live/mindfulness/sleep-meditation/MED_SERIES_18/s",
+      "data_extraction": {
+        "methods_tried": [],
+        "data_found": {
+          "items_script_34": {
+            "success": true,
+            "keys": "array",
+            "sample": "[]"
+          },
+          "widgets_script_34": {
+            "success": true,
+            "keys": "array",
+            "sample": "[]"
+          }
+        },
+        "script_analysis": [
+          {
+            "index": 34,
+            "length": 58101,
+            "contains": [
+              "__PRELOADED_STATE__",
+              "items",
+              "widgets"
+            ]
+          }
+        ]
+      }
+    },
+    "sub_pages": [],
+    "structure_found": true
+  },
+  "Yoga Sutras": {
+    "section": {
+      "url": "https://www.cult.fit/live/mindfulness/yoga-sutras/MED_SERIES_45/s",
+      "name": "Yoga Sutras",
+      "type": "yoga"
+    },
+    "main_page": {
+      "status_code": 200,
+      "url": "https://www.cult.fit/live/mindfulness/yoga-sutras/MED_SERIES_45/s",
+      "data_extraction": {
+        "methods_tried": [],
+        "data_found": {
+          "items_script_32": {
+            "success": true,
+            "keys": "array",
+            "sample": "[]"
+          },
+          "widgets_script_32": {
+            "success": true,
+            "keys": "array",
+            "sample": "[]"
+          }
+        },
+        "script_analysis": [
+          {
+            "index": 32,
+            "length": 16496,
+            "contains": [
+              "__PRELOADED_STATE__",
+              "items",
+              "widgets"
+            ]
+          }
+        ]
+      }
+    },
+    "sub_pages": [],
+    "structure_found": true
+  },
+  "Sound Bath": {
+    "section": {
+      "url": "https://www.cult.fit/live/mindfulness/sound-bath/MED_SERIES_21/s",
+      "name": "Sound Bath",
+      "type": "sound"
+    },
+    "main_page": {
+      "status_code": 200,
+      "url": "https://www.cult.fit/live/mindfulness/sound-bath/MED_SERIES_21/s",
+      "data_extraction": {
+        "methods_tried": [],
+        "data_found": {
+          "items_script_34": {
+            "success": true,
+            "keys": "array",
+            "sample": "[]"
+          },
+          "widgets_script_34": {
+            "success": true,
+            "keys": "array",
+            "sample": "[]"
+          }
+        },
+        "script_analysis": [
+          {
+            "index": 34,
+            "length": 76217,
+            "contains": [
+              "__PRELOADED_STATE__",
+              "items",
+              "widgets"
+            ]
+          }
+        ]
+      }
+    },
+    "sub_pages": [],
+    "structure_found": true
+  },
+  "Therapy Sessions": {
+    "section": {
+      "url": "https://www.cult.fit/live/mindfulness/therapy-sessions/MED_SERIES_23/s",
+      "name": "Therapy Sessions",
+      "type": "therapy"
+    },
+    "main_page": {
+      "status_code": 200,
+      "url": "https://www.cult.fit/live/mindfulness/therapy-sessions/MED_SERIES_23/s",
+      "data_extraction": {
+        "methods_tried": [],
+        "data_found": {
+          "items_script_34": {
+            "success": true,
+            "keys": "array",
+            "sample": "[]"
+          },
+          "widgets_script_34": {
+            "success": true,
+            "keys": "array",
+            "sample": "[]"
+          }
+        },
+        "script_analysis": [
+          {
+            "index": 34,
+            "length": 53144,
+            "contains": [
+              "__PRELOADED_STATE__",
+              "items",
+              "widgets"
+            ]
+          }
+        ]
+      }
+    },
+    "sub_pages": [],
+    "structure_found": true
+  }
+}

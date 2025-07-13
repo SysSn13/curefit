@@ -1,0 +1,108 @@
+POC RECURSIVE CRAWLER REPORT
+============================================================
+Generated: 2025-07-13 12:10:59
+
+OVERALL STATISTICS:
+  Sections crawled: 3
+  Successful: 3
+  Total packs found: 31
+  Total media files: 31
+
+MEDIA BREAKDOWN:
+  Audio files: 26
+  Video files: 5
+
+SECTION DETAILS:
+------------------------------------------------------------
+
+5 Minute Meditations:
+  URL: https://www.cult.fit/live/mindfulness/5-minute-meditations/MED_SERIES_12/s
+  Status: ✅ Success
+  Packs: 14
+  Media files: 14
+  Sample content:
+    1. Stop Panic - Session 1
+       Type: audio
+       Source: packIntroAction
+    2. Boost Confidence - Session 1
+       Type: audio
+       Source: packIntroAction
+    3. Beat Cravings - Session 1
+       Type: audio
+       Source: packIntroAction
+    ... and 11 more files
+
+Sleep Meditation:
+  URL: https://www.cult.fit/live/mindfulness/meditation-for-sleep/MED_SERIES_3/s
+  Status: ✅ Success
+  Packs: 12
+  Media files: 12
+  Sample content:
+    1. Sleep Stories by Dr Shyam Bhat - Follow the River
+       Type: audio
+       Source: packIntroAction
+    2. Sleep Stories-2 by Dr Shyam Bhat - The Bamboo Cutter
+       Type: audio
+       Source: packIntroAction
+    3. Falling into Sleep - Session 1
+       Type: audio
+       Source: packIntroAction
+    ... and 9 more files
+
+Yoga Asanas:
+  URL: https://www.cult.fit/live/mindfulness/yoga-asanas/MED_SERIES_21/s
+  Status: ✅ Success
+  Packs: 5
+  Media files: 5
+  Sample content:
+    1. Balancing Postures - Bakkasana
+       Type: video
+       Source: packIntroAction
+    2. Inversions - Halasana
+       Type: video
+       Source: packIntroAction
+    3. Seated Postures - Ardha Matsyendrasana
+       Type: video
+       Source: packIntroAction
+    ... and 2 more files
+
+============================================================
+CONTENT HIERARCHY:
+------------------------------------------------------------
+
+5 Minute Meditations:
+  - Stop Panic: 1 files
+  - Boost Confidence: 1 files
+  - Beat Cravings: 1 files
+  - Morning Boost: 1 files
+  - Pre exam Stress: 1 files
+  - Flight Anxiety: 1 files
+  - Public Speaking: 1 files
+  - Post workout Meditation: 1 files
+  - Working Mindfully: 1 files
+  - Take a Breather: 1 files
+  - Heartfelt Gratitude: 1 files
+  - Anger: 1 files
+  - Stress: 1 files
+  - Mindful Eating: 1 files
+
+Sleep Meditation:
+  - Sleep Stories by Dr Shyam Bhat: 1 files
+  - Sleep Stories-2 by Dr Shyam Bhat: 1 files
+  - Falling into Sleep: 1 files
+  - Sleep Easy: 1 files
+  - Sleep Better: 1 files
+  - Sleeping by the River: 1 files
+  - Yoga Nidra for Relaxation: 1 files
+  - Yoga Nidra Series-1: 1 files
+  - Yoga Nidra Series -2: 1 files
+  - Yoga Nidra Series -3: 1 files
+  - Yoga Nidra Series - 4: 1 files
+  - Sleep: 1 files
+
+Yoga Asanas:
+  - Balancing Postures: 1 files
+  - Inversions: 1 files
+  - Seated Postures: 1 files
+  - Standing Postures: 1 files
+  - Back Bends: 1 files

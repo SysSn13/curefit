@@ -1,0 +1,118 @@
+Deep Dive Analysis Report
+============================================================
+
+Total sections analyzed: 5
+Sections with items: 3
+Total items found: 10
+
+
+========================================
+SECTION: Meditation For Kids
+Widgets: 1
+Items: 4
+
+Sample Items:
+
+  Item 1:
+    Title: Healing from Breakups
+    Link: 
+    Description: Heal from breakups
+    Keys available: title, subTitle, description, image, action, series, isCompleted, isActive, playAction, content, meta, packIntroAction, isLocked, moreAction, packProgress
+
+  Item 2:
+    Title: Loving Kindness
+    Link: 
+    Description: Develop loving kindness for the other
+    Keys available: title, subTitle, description, image, action, series, isCompleted, isActive, playAction, content, meta, packIntroAction, isLocked, moreAction, packProgress
+
+  Item 3:
+    Title: Forgiveness
+    Link: 
+    Description: Practice forgiveness of self and others
+    Keys available: title, subTitle, description, image, action, series, isCompleted, isActive, playAction, content, meta, packIntroAction, isLocked, moreAction, packProgress
+
+URLs found: 4
+  - curefit://audioplayer?audioUrl=curefit-content%2Faudio%2Ffb3e1315-97bf-4411-a9d8-e30dff2f0a30.mp3&absoluteAudioUrl=https%3A%2F%2Fcdn-media.cure.fit%2Faudio%2Ffb3e1315-97bf-4411-a9d8-e30dff2f0a30.mp3&image=%2Fimage%2Fdiy%2Fautoupload%2FHealing_from_Breakups_1300x1200.jpg&activityId=ACTMED308&activityType=DIY_MEDITATION&packId=MEDPACK051&contentId=fb3e1315-97bf-4411-a9d8-e30dff2f0a30&consumptionRequired=true&title=Session 1
+  - curefit://audioplayer?audioUrl=curefit-content%2Faudio%2F3fc1c476-70a7-4b08-a077-0f85fde2d2b9.mp3&absoluteAudioUrl=https%3A%2F%2Fcdn-media.cure.fit%2Faudio%2F3fc1c476-70a7-4b08-a077-0f85fde2d2b9.mp3&image=%2Fimage%2Fdiy%2Fautoupload%2FLoving_Kindness_1300x1200.jpg&activityId=ACTMED300&activityType=DIY_MEDITATION&packId=MEDPACK050&contentId=3fc1c476-70a7-4b08-a077-0f85fde2d2b9&consumptionRequired=true&title=Session 1
+
+========================================
+SECTION: Therapy Sessions
+Widgets: 1
+Items: 1
+
+Sample Items:
+
+  Item 1:
+    Title: A Guide to Meditation (Hindi)
+    Link: 
+    Description: Meditation pack in Hindi
+    Keys available: title, subTitle, description, image, action, series, isCompleted, isActive, playAction, content, meta, packIntroAction, isLocked, moreAction, packProgress
+
+URLs found: 1
+  - curefit://audioplayer?audioUrl=curefit-content%2Faudio%2Fe714c2af-b37b-4379-9a26-6df8a399a6bb.mp3&absoluteAudioUrl=https%3A%2F%2Fcdn-media.cure.fit%2Faudio%2Fe714c2af-b37b-4379-9a26-6df8a399a6bb.mp3&image=%2Fimage%2Fdiy%2Fe2a728ad-f06f-47f6-a62c-b89ee0657645&activityId=ACTMED455&activityType=DIY_MEDITATION&packId=MEDPACK076&contentId=e714c2af-b37b-4379-9a26-6df8a399a6bb&consumptionRequired=true&title=Session 1 - What is Meditation and Awareness practice
+
+========================================
+SECTION: Sleep Meditation
+Widgets: 1
+Items: 0
+
+========================================
+SECTION: Yoga Sutras
+Widgets: 0
+Items: 0
+
+========================================
+SECTION: Sound Bath
+Widgets: 1
+Items: 5
+
+Sample Items:
+
+  Item 1:
+    Title: Balancing Postures
+    Link: 
+    Description: 13 Videos
+    Keys available: title, subTitle, description, image, action, series, isCompleted, isActive, playAction, content, meta, packIntroAction, isLocked, moreAction, packProgress
+
+  Item 2:
+    Title: Inversions
+    Link: 
+    Description: 3 Videos
+    Keys available: title, subTitle, description, image, action, series, isCompleted, isActive, playAction, content, meta, packIntroAction, isLocked, moreAction, packProgress
+
+  Item 3:
+    Title: Seated Postures
+    Link: 
+    Description: 6 Videos
+    Keys available: title, subTitle, description, image, action, series, isCompleted, isActive, playAction, content, meta, packIntroAction, isLocked, moreAction, packProgress
+
+URLs found: 5
+  - curefit://videoplayer?videoUrl=curefit-content%2Fvideo%2Ff39315d4-9cf1-424a-808d-5a63ddb777df.mp4&absoluteVideoUrl=https%3A%2F%2Fcdn-media.cure.fit%2Fvideo%2Ff39315d4-9cf1-424a-808d-5a63ddb777df.mp4&image=%2Fimage%2Fdiy%2F53f7c699-a6c0-41c8-9fb1-57bd33a14a00&activityId=ACTMED402&activityType=DIY_MEDITATION&packId=MEDPACK068&contentId=f39315d4-9cf1-424a-808d-5a63ddb777df&consumptionRequired=true&title=Bakkasana
+  - curefit://videoplayer?videoUrl=curefit-content%2Fvideo%2F449b6870-e3f2-4bb5-904b-bd95dc6d678c.mp4&absoluteVideoUrl=https%3A%2F%2Fcdn-media.cure.fit%2Fvideo%2F449b6870-e3f2-4bb5-904b-bd95dc6d678c.mp4&image=%2Fimage%2Fdiy%2F531718ad-0f0a-4db1-8a62-8938c20a64a1&activityId=ACTMED415&activityType=DIY_MEDITATION&packId=MEDPACK069&contentId=449b6870-e3f2-4bb5-904b-bd95dc6d678c&consumptionRequired=true&title=Halasana
+
+============================================================
+COMMON PATTERNS:
+
+Common item keys across all sections:
+  - action
+  - content
+  - description
+  - image
+  - isActive
+  - isCompleted
+  - isLocked
+  - meta
+  - moreAction
+  - packIntroAction
+  - packProgress
+  - playAction
+  - series
+  - subTitle
+  - title
+
+============================================================
+NEXT STEPS:
+1. The main pages contain items with links to sub-sections
+2. Each item has a 'link' field that points to the actual content page
+3. Need to visit these sub-pages to find the actual media files
+4. The sub-pages likely use cultDIYSingle instead of cultDIYPackBrowse

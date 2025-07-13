@@ -1,0 +1,75 @@
+{
+  "timestamp": "2025-06-19T23:10:56.177037",
+  "total_files": 220,
+  "downloaded_successfully": 201,
+  "failed_downloads": 11,
+  "download_duration_seconds": 589.9656572341919,
+  "failed_files": [
+    {
+      "url": "https://cdn-media.cure.fit/video/undefined.mp4",
+      "filename": "undefined.mp4",
+      "section": "Meditation Before Sleep",
+      "status": 403
+    },
+    {
+      "url": "https://cdn-media.cure.fit/video/undefined.mp4",
+      "filename": "undefined.mp4",
+      "section": "Relationship Healing",
+      "status": 403
+    },
+    {
+      "url": "https://cdn-media.cure.fit/video/undefined.mp4",
+      "filename": "undefined.mp4",
+      "section": "Jouney To Inner Happiness",
+      "status": 403
+    },
+    {
+      "url": "https://cdn-media.cure.fit/video/undefined.mp4",
+      "filename": "undefined.mp4",
+      "section": "Building Confidence",
+      "status": 403
+    },
+    {
+      "url": "https://cdn-media.cure.fit/video/undefined.mp4",
+      "filename": "undefined.mp4",
+      "section": "Sleep Stories For Kids",
+      "status": 403
+    },
+    {
+      "url": "https://cdn-media.cure.fit/video/6db7becc-4055-4d1d-9be6-4cd839281d68.mp4",
+      "filename": "6db7becc-4055-4d1d-9be6-4cd839281d68.mp4",
+      "section": "Covid Recovery",
+      "error": ""
+    },
+    {
+      "url": "https://cdn-media.cure.fit/video/undefined.mp4",
+      "filename": "undefined.mp4",
+      "section": "Walking Meditation",
+      "status": 403
+    },
+    {
+      "url": "https://cdn-media.cure.fit/video/undefined.mp4",
+      "filename": "undefined.mp4",
+      "section": "Emotional Health In A Global Crisis",
+      "status": 403
+    },
+    {
+      "url": "https://cdn-media.cure.fit/video/undefined.mp4",
+      "filename": "undefined.mp4",
+      "section": "Breathing Meditation",
+      "status": 403
+    },
+    {
+      "url": "https://cdn-media.cure.fit/video/undefined.mp4",
+      "filename": "undefined.mp4",
+      "section": "Guided Meditation In Hindi",
+      "status": 403
+    },
+    {
+      "url": "https://cdn-media.cure.fit/video/6db7becc-4055-4d1d-9be6-4cd839281d68.mp4",
+      "filename": "6db7becc-4055-4d1d-9be6-4cd839281d68.mp4",
+      "section": "30 Minutes Pranayama",
+      "error": ""
+    }
+  ]
+}

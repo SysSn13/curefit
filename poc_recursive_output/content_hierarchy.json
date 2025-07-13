@@ -1,0 +1,225 @@
+{
+  "5 Minute Meditations": {
+    "Stop Panic": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/d86370b7-5f40-434b-8809-be1563ba0327.mp3"
+      }
+    ],
+    "Boost Confidence": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/3a90ece5-556b-40ed-8b97-7ec84750e8a5.mp3"
+      }
+    ],
+    "Beat Cravings": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/b2cf54b2-d5db-4bec-81c4-9a63374e5010.mp3"
+      }
+    ],
+    "Morning Boost": [
+      {
+        "session": "Fresh Air",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/83d7c4bf-0215-442d-b716-e4a5f740ef6d.mp3"
+      }
+    ],
+    "Pre exam Stress": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/7cbefa17-91d5-4717-9409-ccc593f05b55.mp3"
+      }
+    ],
+    "Flight Anxiety": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/e83f5e71-d7bf-4bcc-88fc-2b880b5b3d34.mp3"
+      }
+    ],
+    "Public Speaking": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/1a87d1b0-ab7e-4fd6-8351-3f8e1cf0b4bb.mp3"
+      }
+    ],
+    "Post workout Meditation": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/eec2ab0d-e76e-48dc-9404-e0a5304561e9.mp3"
+      }
+    ],
+    "Working Mindfully": [
+      {
+        "session": "Working Mindfully",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/ddf821fe-d069-4d0f-b63c-4103fc8e6c54.mp3"
+      }
+    ],
+    "Take a Breather": [
+      {
+        "session": "Sound Awareness",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/dfae37c5-b621-491e-a665-58766eea56fc.mp3"
+      }
+    ],
+    "Heartfelt Gratitude": [
+      {
+        "session": "Heartfelt Gratitude",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/4c02c248-dfdc-4283-b5ef-622acda10a67.mp3"
+      }
+    ],
+    "Anger": [
+      {
+        "session": "Witness Sensations",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/0edf962e-3e90-4a08-a90c-830ab34304e0.mp3"
+      }
+    ],
+    "Stress": [
+      {
+        "session": "Deep Breathing",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/b9861c55-2fb3-478e-bb58-c30efc237384.mp3"
+      }
+    ],
+    "Mindful Eating": [
+      {
+        "session": "Before a Meal",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/26079704-7acf-40c7-ace7-24cc69f37222.mp3"
+      }
+    ]
+  },
+  "Sleep Meditation": {
+    "Sleep Stories by Dr Shyam Bhat": [
+      {
+        "session": "Follow the River",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/MED089.mp3"
+      }
+    ],
+    "Sleep Stories-2 by Dr Shyam Bhat": [
+      {
+        "session": "The Bamboo Cutter",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/bd2efccb-b25c-4b73-b826-225b3342715f.mp3"
+      }
+    ],
+    "Falling into Sleep": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/9bca2df7-0b17-4abf-aa19-8544aabf2c2f.mp3"
+      }
+    ],
+    "Sleep Easy": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/MED068.mp3"
+      }
+    ],
+    "Sleep Better": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/MED029.mp3"
+      }
+    ],
+    "Sleeping by the River": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/MED075.mp3"
+      }
+    ],
+    "Yoga Nidra for Relaxation": [
+      {
+        "session": "Relaxation",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/a61c7bfd-f4ca-4810-914c-f022ceb3e309.mp3"
+      }
+    ],
+    "Yoga Nidra Series-1": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/07004afb-8fa1-41e9-bf38-03591a56d99e.mp3"
+      }
+    ],
+    "Yoga Nidra Series -2": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/e7be46e8-bce4-4400-a065-f9c0314d62df.mp3"
+      }
+    ],
+    "Yoga Nidra Series -3": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/30b78c5e-4870-409c-a792-1539021f079c.mp3"
+      }
+    ],
+    "Yoga Nidra Series - 4": [
+      {
+        "session": "Session 1",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/59184075-7d32-49d3-b4f9-08ff2da933fe.mp3"
+      }
+    ],
+    "Sleep": [
+      {
+        "session": "An overview of Sleep",
+        "type": "audio",
+        "url": "https://cdn-media.cure.fit/audio/33630320-515d-4948-9d16-ffce479b97e6.mp3"
+      }
+    ]
+  },
+  "Yoga Asanas": {
+    "Balancing Postures": [
+      {
+        "session": "Bakkasana",
+        "type": "video",
+        "url": "https://cdn-media.cure.fit/video/f39315d4-9cf1-424a-808d-5a63ddb777df.mp4"
+      }
+    ],
+    "Inversions": [
+      {
+        "session": "Halasana",
+        "type": "video",
+        "url": "https://cdn-media.cure.fit/video/449b6870-e3f2-4bb5-904b-bd95dc6d678c.mp4"
+      }
+    ],
+    "Seated Postures": [
+      {
+        "session": "Ardha Matsyendrasana",
+        "type": "video",
+        "url": "https://cdn-media.cure.fit/video/e031bc51-604d-4a3f-96e3-8f5ea95f213e.mp4"
+      }
+    ],
+    "Standing Postures": [
+      {
+        "session": "Ardha Chandrasana",
+        "type": "video",
+        "url": "https://cdn-media.cure.fit/video/aa9f5a5e-f9e3-449a-8e4c-feee15db7cc3.mp4"
+      }
+    ],
+    "Back Bends": [
+      {
+        "session": "Bhujangasana",
+        "type": "video",
+        "url": "https://cdn-media.cure.fit/video/8093554f-521f-4799-b0a7-dbf47e3ee1b6.mp4"
+      }
+    ]
+  }
+}

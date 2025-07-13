@@ -1,0 +1,323 @@
+{
+  "Meditation For Kids": {
+    "section": "Meditation For Kids",
+    "widgets_count": 1,
+    "total_items": 4,
+    "items_details": [
+      {
+        "widget_index": 0,
+        "item_index": 0,
+        "title": "Healing from Breakups",
+        "link": "",
+        "description": "Heal from breakups",
+        "type": "",
+        "id": "",
+        "all_keys": [
+          "title",
+          "subTitle",
+          "description",
+          "image",
+          "action",
+          "series",
+          "isCompleted",
+          "isActive",
+          "playAction",
+          "content",
+          "meta",
+          "packIntroAction",
+          "isLocked",
+          "moreAction",
+          "packProgress"
+        ],
+        "packIntroAction": "curefit://audioplayer?audioUrl=curefit-content%2Faudio%2Ffb3e1315-97bf-4411-a9d8-e30dff2f0a30.mp3&absoluteAudioUrl=https%3A%2F%2Fcdn-media.cure.fit%2Faudio%2Ffb3e1315-97bf-4411-a9d8-e30dff2f0a30.mp3&image=%2Fimage%2Fdiy%2Fautoupload%2FHealing_from_Breakups_1300x1200.jpg&activityId=ACTMED308&activityType=DIY_MEDITATION&packId=MEDPACK051&contentId=fb3e1315-97bf-4411-a9d8-e30dff2f0a30&consumptionRequired=true&title=Session 1"
+      },
+      {
+        "widget_index": 0,
+        "item_index": 1,
+        "title": "Loving Kindness",
+        "link": "",
+        "description": "Develop loving kindness for the other",
+        "type": "",
+        "id": "",
+        "all_keys": [
+          "title",
+          "subTitle",
+          "description",
+          "image",
+          "action",
+          "series",
+          "isCompleted",
+          "isActive",
+          "playAction",
+          "content",
+          "meta",
+          "packIntroAction",
+          "isLocked",
+          "moreAction",
+          "packProgress"
+        ],
+        "packIntroAction": "curefit://audioplayer?audioUrl=curefit-content%2Faudio%2F3fc1c476-70a7-4b08-a077-0f85fde2d2b9.mp3&absoluteAudioUrl=https%3A%2F%2Fcdn-media.cure.fit%2Faudio%2F3fc1c476-70a7-4b08-a077-0f85fde2d2b9.mp3&image=%2Fimage%2Fdiy%2Fautoupload%2FLoving_Kindness_1300x1200.jpg&activityId=ACTMED300&activityType=DIY_MEDITATION&packId=MEDPACK050&contentId=3fc1c476-70a7-4b08-a077-0f85fde2d2b9&consumptionRequired=true&title=Session 1"
+      },
+      {
+        "widget_index": 0,
+        "item_index": 2,
+        "title": "Forgiveness",
+        "link": "",
+        "description": "Practice forgiveness of self and others",
+        "type": "",
+        "id": "",
+        "all_keys": [
+          "title",
+          "subTitle",
+          "description",
+          "image",
+          "action",
+          "series",
+          "isCompleted",
+          "isActive",
+          "playAction",
+          "content",
+          "meta",
+          "packIntroAction",
+          "isLocked",
+          "moreAction",
+          "packProgress"
+        ],
+        "packIntroAction": "curefit://audioplayer?audioUrl=curefit-content%2Faudio%2Fbed58c41-15ba-4597-ae06-3f403db9c572.mp3&absoluteAudioUrl=https%3A%2F%2Fcdn-media.cure.fit%2Faudio%2Fbed58c41-15ba-4597-ae06-3f403db9c572.mp3&image=%2Fimage%2Fdiy%2Fautoupload%2Fforgiveness_1300x1200.jpg&activityId=ACTMED293&activityType=DIY_MEDITATION&packId=MEDPACK049&contentId=bed58c41-15ba-4597-ae06-3f403db9c572&consumptionRequired=true&title=Session 1"
+      },
+      {
+        "widget_index": 0,
+        "item_index": 3,
+        "title": "Empathy & Compassion",
+        "link": "",
+        "description": "Focus on empathy and compassion",
+        "type": "",
+        "id": "",
+        "all_keys": [
+          "title",
+          "subTitle",
+          "description",
+          "image",
+          "action",
+          "series",
+          "isCompleted",
+          "isActive",
+          "playAction",
+          "content",
+          "meta",
+          "packIntroAction",
+          "isLocked",
+          "moreAction",
+          "packProgress"
+        ],
+        "packIntroAction": "curefit://audioplayer?audioUrl=curefit-content%2Faudio%2F0f1d28eb-c723-4179-9cdf-714814804aac.mp3&absoluteAudioUrl=https%3A%2F%2Fcdn-media.cure.fit%2Faudio%2F0f1d28eb-c723-4179-9cdf-714814804aac.mp3&image=%2Fimage%2Fdiy%2F3fdc4b93-ee26-42ca-bcd3-4a1be2ac3390&activityId=ACTMED286&activityType=DIY_MEDITATION&packId=MEDPACK048&contentId=0f1d28eb-c723-4179-9cdf-714814804aac&consumptionRequired=true&title=Session 1"
+      }
+    ],
+    "urls_found": [
+      "curefit://audioplayer?audioUrl=curefit-content%2Faudio%2Ffb3e1315-97bf-4411-a9d8-e30dff2f0a30.mp3&absoluteAudioUrl=https%3A%2F%2Fcdn-media.cure.fit%2Faudio%2Ffb3e1315-97bf-4411-a9d8-e30dff2f0a30.mp3&image=%2Fimage%2Fdiy%2Fautoupload%2FHealing_from_Breakups_1300x1200.jpg&activityId=ACTMED308&activityType=DIY_MEDITATION&packId=MEDPACK051&contentId=fb3e1315-97bf-4411-a9d8-e30dff2f0a30&consumptionRequired=true&title=Session 1",
+      "curefit://audioplayer?audioUrl=curefit-content%2Faudio%2F3fc1c476-70a7-4b08-a077-0f85fde2d2b9.mp3&absoluteAudioUrl=https%3A%2F%2Fcdn-media.cure.fit%2Faudio%2F3fc1c476-70a7-4b08-a077-0f85fde2d2b9.mp3&image=%2Fimage%2Fdiy%2Fautoupload%2FLoving_Kindness_1300x1200.jpg&activityId=ACTMED300&activityType=DIY_MEDITATION&packId=MEDPACK050&contentId=3fc1c476-70a7-4b08-a077-0f85fde2d2b9&consumptionRequired=true&title=Session 1",
+      "curefit://audioplayer?audioUrl=curefit-content%2Faudio%2Fbed58c41-15ba-4597-ae06-3f403db9c572.mp3&absoluteAudioUrl=https%3A%2F%2Fcdn-media.cure.fit%2Faudio%2Fbed58c41-15ba-4597-ae06-3f403db9c572.mp3&image=%2Fimage%2Fdiy%2Fautoupload%2Fforgiveness_1300x1200.jpg&activityId=ACTMED293&activityType=DIY_MEDITATION&packId=MEDPACK049&contentId=bed58c41-15ba-4597-ae06-3f403db9c572&consumptionRequired=true&title=Session 1",
+      "curefit://audioplayer?audioUrl=curefit-content%2Faudio%2F0f1d28eb-c723-4179-9cdf-714814804aac.mp3&absoluteAudioUrl=https%3A%2F%2Fcdn-media.cure.fit%2Faudio%2F0f1d28eb-c723-4179-9cdf-714814804aac.mp3&image=%2Fimage%2Fdiy%2F3fdc4b93-ee26-42ca-bcd3-4a1be2ac3390&activityId=ACTMED286&activityType=DIY_MEDITATION&packId=MEDPACK048&contentId=0f1d28eb-c723-4179-9cdf-714814804aac&consumptionRequired=true&title=Session 1"
+    ]
+  },
+  "Therapy Sessions": {
+    "section": "Therapy Sessions",
+    "widgets_count": 1,
+    "total_items": 1,
+    "items_details": [
+      {
+        "widget_index": 0,
+        "item_index": 0,
+        "title": "A Guide to Meditation (Hindi)",
+        "link": "",
+        "description": "Meditation pack in Hindi",
+        "type": "",
+        "id": "",
+        "all_keys": [
+          "title",
+          "subTitle",
+          "description",
+          "image",
+          "action",
+          "series",
+          "isCompleted",
+          "isActive",
+          "playAction",
+          "content",
+          "meta",
+          "packIntroAction",
+          "isLocked",
+          "moreAction",
+          "packProgress"
+        ],
+        "packIntroAction": "curefit://audioplayer?audioUrl=curefit-content%2Faudio%2Fe714c2af-b37b-4379-9a26-6df8a399a6bb.mp3&absoluteAudioUrl=https%3A%2F%2Fcdn-media.cure.fit%2Faudio%2Fe714c2af-b37b-4379-9a26-6df8a399a6bb.mp3&image=%2Fimage%2Fdiy%2Fe2a728ad-f06f-47f6-a62c-b89ee0657645&activityId=ACTMED455&activityType=DIY_MEDITATION&packId=MEDPACK076&contentId=e714c2af-b37b-4379-9a26-6df8a399a6bb&consumptionRequired=true&title=Session 1 - What is Meditation and Awareness practice"
+      }
+    ],
+    "urls_found": [
+      "curefit://audioplayer?audioUrl=curefit-content%2Faudio%2Fe714c2af-b37b-4379-9a26-6df8a399a6bb.mp3&absoluteAudioUrl=https%3A%2F%2Fcdn-media.cure.fit%2Faudio%2Fe714c2af-b37b-4379-9a26-6df8a399a6bb.mp3&image=%2Fimage%2Fdiy%2Fe2a728ad-f06f-47f6-a62c-b89ee0657645&activityId=ACTMED455&activityType=DIY_MEDITATION&packId=MEDPACK076&contentId=e714c2af-b37b-4379-9a26-6df8a399a6bb&consumptionRequired=true&title=Session 1 - What is Meditation and Awareness practice"
+    ]
+  },
+  "Sleep Meditation": {
+    "section": "Sleep Meditation",
+    "widgets_count": 1,
+    "total_items": 0,
+    "items_details": [],
+    "urls_found": []
+  },
+  "Yoga Sutras": {
+    "section": "Yoga Sutras",
+    "widgets_count": 0,
+    "total_items": 0,
+    "items_details": [],
+    "urls_found": []
+  },
+  "Sound Bath": {
+    "section": "Sound Bath",
+    "widgets_count": 1,
+    "total_items": 5,
+    "items_details": [
+      {
+        "widget_index": 0,
+        "item_index": 0,
+        "title": "Balancing Postures",
+        "link": "",
+        "description": "13 Videos",
+        "type": "",
+        "id": "",
+        "all_keys": [
+          "title",
+          "subTitle",
+          "description",
+          "image",
+          "action",
+          "series",
+          "isCompleted",
+          "isActive",
+          "playAction",
+          "content",
+          "meta",
+          "packIntroAction",
+          "isLocked",
+          "moreAction",
+          "packProgress"
+        ],
+        "packIntroAction": "curefit://videoplayer?videoUrl=curefit-content%2Fvideo%2Ff39315d4-9cf1-424a-808d-5a63ddb777df.mp4&absoluteVideoUrl=https%3A%2F%2Fcdn-media.cure.fit%2Fvideo%2Ff39315d4-9cf1-424a-808d-5a63ddb777df.mp4&image=%2Fimage%2Fdiy%2F53f7c699-a6c0-41c8-9fb1-57bd33a14a00&activityId=ACTMED402&activityType=DIY_MEDITATION&packId=MEDPACK068&contentId=f39315d4-9cf1-424a-808d-5a63ddb777df&consumptionRequired=true&title=Bakkasana"
+      },
+      {
+        "widget_index": 0,
+        "item_index": 1,
+        "title": "Inversions",
+        "link": "",
+        "description": "3 Videos",
+        "type": "",
+        "id": "",
+        "all_keys": [
+          "title",
+          "subTitle",
+          "description",
+          "image",
+          "action",
+          "series",
+          "isCompleted",
+          "isActive",
+          "playAction",
+          "content",
+          "meta",
+          "packIntroAction",
+          "isLocked",
+          "moreAction",
+          "packProgress"
+        ],
+        "packIntroAction": "curefit://videoplayer?videoUrl=curefit-content%2Fvideo%2F449b6870-e3f2-4bb5-904b-bd95dc6d678c.mp4&absoluteVideoUrl=https%3A%2F%2Fcdn-media.cure.fit%2Fvideo%2F449b6870-e3f2-4bb5-904b-bd95dc6d678c.mp4&image=%2Fimage%2Fdiy%2F531718ad-0f0a-4db1-8a62-8938c20a64a1&activityId=ACTMED415&activityType=DIY_MEDITATION&packId=MEDPACK069&contentId=449b6870-e3f2-4bb5-904b-bd95dc6d678c&consumptionRequired=true&title=Halasana"
+      },
+      {
+        "widget_index": 0,
+        "item_index": 2,
+        "title": "Seated Postures",
+        "link": "",
+        "description": "6 Videos",
+        "type": "",
+        "id": "",
+        "all_keys": [
+          "title",
+          "subTitle",
+          "description",
+          "image",
+          "action",
+          "series",
+          "isCompleted",
+          "isActive",
+          "playAction",
+          "content",
+          "meta",
+          "packIntroAction",
+          "isLocked",
+          "moreAction",
+          "packProgress"
+        ],
+        "packIntroAction": "curefit://videoplayer?videoUrl=curefit-content%2Fvideo%2Fe031bc51-604d-4a3f-96e3-8f5ea95f213e.mp4&absoluteVideoUrl=https%3A%2F%2Fcdn-media.cure.fit%2Fvideo%2Fe031bc51-604d-4a3f-96e3-8f5ea95f213e.mp4&image=%2Fimage%2Fdiy%2F2dba041f-dfd5-42b3-9f04-83996fb96d1d&activityId=ACTMED418&activityType=DIY_MEDITATION&packId=MEDPACK070&contentId=e031bc51-604d-4a3f-96e3-8f5ea95f213e&consumptionRequired=true&title=Ardha Matsyendrasana"
+      },
+      {
+        "widget_index": 0,
+        "item_index": 3,
+        "title": "Standing Postures",
+        "link": "",
+        "description": "18 Videos",
+        "type": "",
+        "id": "",
+        "all_keys": [
+          "title",
+          "subTitle",
+          "description",
+          "image",
+          "action",
+          "series",
+          "isCompleted",
+          "isActive",
+          "playAction",
+          "content",
+          "meta",
+          "packIntroAction",
+          "isLocked",
+          "moreAction",
+          "packProgress"
+        ],
+        "packIntroAction": "curefit://videoplayer?videoUrl=curefit-content%2Fvideo%2Faa9f5a5e-f9e3-449a-8e4c-feee15db7cc3.mp4&absoluteVideoUrl=https%3A%2F%2Fcdn-media.cure.fit%2Fvideo%2Faa9f5a5e-f9e3-449a-8e4c-feee15db7cc3.mp4&image=%2Fimage%2Fdiy%2F05775de1-333c-4c78-8dab-093d0046f765&activityId=ACTMED424&activityType=DIY_MEDITATION&packId=MEDPACK071&contentId=aa9f5a5e-f9e3-449a-8e4c-feee15db7cc3&consumptionRequired=true&title=Ardha Chandrasana"
+      },
+      {
+        "widget_index": 0,
+        "item_index": 4,
+        "title": "Back Bends",
+        "link": "",
+        "description": "4 Videos",
+        "type": "",
+        "id": "",
+        "all_keys": [
+          "title",
+          "subTitle",
+          "description",
+          "image",
+          "action",
+          "series",
+          "isCompleted",
+          "isActive",
+          "playAction",
+          "content",
+          "meta",
+          "packIntroAction",
+          "isLocked",
+          "moreAction",
+          "packProgress"
+        ],
+        "packIntroAction": "curefit://videoplayer?videoUrl=curefit-content%2Fvideo%2F8093554f-521f-4799-b0a7-dbf47e3ee1b6.mp4&absoluteVideoUrl=https%3A%2F%2Fcdn-media.cure.fit%2Fvideo%2F8093554f-521f-4799-b0a7-dbf47e3ee1b6.mp4&image=%2Fimage%2Fdiy%2Fa0e5e273-0c45-4734-bd82-fa4d9e9c74a3&activityId=ACTMED398&activityType=DIY_MEDITATION&packId=MEDPACK067&contentId=8093554f-521f-4799-b0a7-dbf47e3ee1b6&consumptionRequired=true&title=Bhujangasana"
+      }
+    ],
+    "urls_found": [
+      "curefit://videoplayer?videoUrl=curefit-content%2Fvideo%2Ff39315d4-9cf1-424a-808d-5a63ddb777df.mp4&absoluteVideoUrl=https%3A%2F%2Fcdn-media.cure.fit%2Fvideo%2Ff39315d4-9cf1-424a-808d-5a63ddb777df.mp4&image=%2Fimage%2Fdiy%2F53f7c699-a6c0-41c8-9fb1-57bd33a14a00&activityId=ACTMED402&activityType=DIY_MEDITATION&packId=MEDPACK068&contentId=f39315d4-9cf1-424a-808d-5a63ddb777df&consumptionRequired=true&title=Bakkasana",
+      "curefit://videoplayer?videoUrl=curefit-content%2Fvideo%2F449b6870-e3f2-4bb5-904b-bd95dc6d678c.mp4&absoluteVideoUrl=https%3A%2F%2Fcdn-media.cure.fit%2Fvideo%2F449b6870-e3f2-4bb5-904b-bd95dc6d678c.mp4&image=%2Fimage%2Fdiy%2F531718ad-0f0a-4db1-8a62-8938c20a64a1&activityId=ACTMED415&activityType=DIY_MEDITATION&packId=MEDPACK069&contentId=449b6870-e3f2-4bb5-904b-bd95dc6d678c&consumptionRequired=true&title=Halasana",
+      "curefit://videoplayer?videoUrl=curefit-content%2Fvideo%2Fe031bc51-604d-4a3f-96e3-8f5ea95f213e.mp4&absoluteVideoUrl=https%3A%2F%2Fcdn-media.cure.fit%2Fvideo%2Fe031bc51-604d-4a3f-96e3-8f5ea95f213e.mp4&image=%2Fimage%2Fdiy%2F2dba041f-dfd5-42b3-9f04-83996fb96d1d&activityId=ACTMED418&activityType=DIY_MEDITATION&packId=MEDPACK070&contentId=e031bc51-604d-4a3f-96e3-8f5ea95f213e&consumptionRequired=true&title=Ardha Matsyendrasana",
+      "curefit://videoplayer?videoUrl=curefit-content%2Fvideo%2Faa9f5a5e-f9e3-449a-8e4c-feee15db7cc3.mp4&absoluteVideoUrl=https%3A%2F%2Fcdn-media.cure.fit%2Fvideo%2Faa9f5a5e-f9e3-449a-8e4c-feee15db7cc3.mp4&image=%2Fimage%2Fdiy%2F05775de1-333c-4c78-8dab-093d0046f765&activityId=ACTMED424&activityType=DIY_MEDITATION&packId=MEDPACK071&contentId=aa9f5a5e-f9e3-449a-8e4c-feee15db7cc3&consumptionRequired=true&title=Ardha Chandrasana",
+      "curefit://videoplayer?videoUrl=curefit-content%2Fvideo%2F8093554f-521f-4799-b0a7-dbf47e3ee1b6.mp4&absoluteVideoUrl=https%3A%2F%2Fcdn-media.cure.fit%2Fvideo%2F8093554f-521f-4799-b0a7-dbf47e3ee1b6.mp4&image=%2Fimage%2Fdiy%2Fa0e5e273-0c45-4734-bd82-fa4d9e9c74a3&activityId=ACTMED398&activityType=DIY_MEDITATION&packId=MEDPACK067&contentId=8093554f-521f-4799-b0a7-dbf47e3ee1b6&consumptionRequired=true&title=Bhujangasana"
+    ]
+  }
+}

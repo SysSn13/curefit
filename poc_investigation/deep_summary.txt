@@ -1,0 +1,73 @@
+CultFit Deep Structure Investigation Summary
+============================================================
+
+Total sections investigated: 5
+Successfully fetched main pages: 5
+Sections with structured data: 5
+
+
+========================================
+SECTION: Meditation For Kids
+Type: meditation
+URL: https://www.cult.fit/live/mindfulness/meditation-for-kids/MED_SERIES_13/s
+
+Main Page Script Analysis:
+  Script 34: __PRELOADED_STATE__, items, widgets
+
+Data Extraction Results:
+  ✅ items_script_34: Found data with keys: array
+  ✅ widgets_script_34: Found data with keys: array
+
+========================================
+SECTION: Sleep Meditation
+Type: meditation
+URL: https://www.cult.fit/live/mindfulness/sleep-meditation/MED_SERIES_18/s
+
+Main Page Script Analysis:
+  Script 34: __PRELOADED_STATE__, items, widgets
+
+Data Extraction Results:
+  ✅ items_script_34: Found data with keys: array
+  ✅ widgets_script_34: Found data with keys: array
+
+========================================
+SECTION: Yoga Sutras
+Type: yoga
+URL: https://www.cult.fit/live/mindfulness/yoga-sutras/MED_SERIES_45/s
+
+Main Page Script Analysis:
+  Script 32: __PRELOADED_STATE__, items, widgets
+
+Data Extraction Results:
+  ✅ items_script_32: Found data with keys: array
+  ✅ widgets_script_32: Found data with keys: array
+
+========================================
+SECTION: Sound Bath
+Type: sound
+URL: https://www.cult.fit/live/mindfulness/sound-bath/MED_SERIES_21/s
+
+Main Page Script Analysis:
+  Script 34: __PRELOADED_STATE__, items, widgets
+
+Data Extraction Results:
+  ✅ items_script_34: Found data with keys: array
+  ✅ widgets_script_34: Found data with keys: array
+
+========================================
+SECTION: Therapy Sessions
+Type: therapy
+URL: https://www.cult.fit/live/mindfulness/therapy-sessions/MED_SERIES_23/s
+
+Main Page Script Analysis:
+  Script 34: __PRELOADED_STATE__, items, widgets
+
+Data Extraction Results:
+  ✅ items_script_34: Found data with keys: array
+  ✅ widgets_script_34: Found data with keys: array
+
+============================================================
+COMMON PATTERNS FOUND:
+  - __PRELOADED_STATE__
+  - items
+  - widgets

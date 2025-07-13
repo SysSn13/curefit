@@ -1,0 +1,60 @@
+body {
+    font-family: system-ui, Arial, sans-serif;
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+nav a {
+    color: #0080ff;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    margin-top: 40px;
+}
+
+details {
+    margin: 12px 0;
+}
+
+summary {
+    cursor: pointer;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+audio,
+video {
+    width: 100%;
+    margin: 8px 0;
+}
+
+.play-btn {
+    background: #0080ff;
+    color: #fff;
+    border: none;
+    padding: 8px 14px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+    margin: 6px 0;
+    transition: background .2s;
+}
+
+.play-btn:hover {
+    background: #005fcc;
+}

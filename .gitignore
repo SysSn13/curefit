@@ -1,0 +1,29 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.env/
+venv/
+
+# OS junk
+.DS_Store
+
+# Local environment variables
+.env
+
+# Crawler outputs (large)
+media/
+data/
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# pytest cache
+.pytest_cache/ 
+
+# Frontend artifacts
+frontend/node_modules/
+frontend/dist/ 
