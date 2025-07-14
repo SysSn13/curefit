@@ -6,13 +6,12 @@ CultFit MindLive ⭐️ All-in-One Crawler
 • Discovers every MindLive section from https://www.cult.fit/athome/MindLive
 • Extracts *all* packs & session-level media (audio/video) from each section
 • Streams content directly from the cult.fit CDN – **no media is downloaded or stored locally**.
-• Generates a GitHub-friendly `README.md` that links straight to CDN media so sessions can be played instantly.
 
 Running the script twice will reuse the cached JSON metadata; no unnecessary network calls are made.
 
 Usage
 -----
-# Crawl & build README (default)
+# Crawl (default)
 $ python3 cultfit_crawler.py
 
 # Skip crawling and reuse cached JSON (fast rebuild)
@@ -900,8 +899,6 @@ def main(argv: Optional[List[str]] = None):
 
     if not args.no_crawl:
         c.crawl()
-    # Crawling (if enabled) updates the JSON cache that README + HTML rely on.
-    c.generate_readme()
 
     print("\n🎉 All done! Happy meditating ✨")
 
